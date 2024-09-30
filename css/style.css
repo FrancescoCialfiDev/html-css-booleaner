@@ -33,7 +33,7 @@ p{
     color: #808080;
     font-size: 20px;
 }
-span{
+main span{
     color: #20a9e5;
 }
 
@@ -49,4 +49,20 @@ span{
 .image-main p{
     font-size: 14px;
     color: black;
+}
+
+.primo-lorem p{
+    color: black;
+    padding-top: 20px;
+}
+
+.primo-lorem span{
+    font-size: 18px;
+    color: black;
+    background-color: yellow;
+}
+
+.list-lorem{
+    padding: 10px;
+    padding-top: 40px;
 }
