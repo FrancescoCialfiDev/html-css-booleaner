@@ -49,10 +49,10 @@ main span {
     color: black;
 }
 
-.primo-lorem p {
+.evidenziato p {
     font-size: 18px;
     color: black;
-    padding-top: 20px;
+    padding-top: 50px;
 }
 
 .evidenziato span {
@@ -88,5 +88,13 @@ thead th {
     background-repeat: no-repeat;
     height: 150px;
     background-image: url(../img/monitor.jpg);
+    background-size: contain;
+}
+
+.first-img{
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
     background-size: contain;
 }
