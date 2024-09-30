@@ -68,12 +68,17 @@ main span {
 }
 
 table {
+    height: 300px;
     width: 100%;
     padding-bottom: 50px;
     padding-top: 50px;
 }
 
-td {
+.table-white{
+    background-color: rgb(255, 255, 255);
+}
+
+tr {
     background-color: #b1e5f2;
 }
 
