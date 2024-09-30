@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: 50;
+    bac
+    
+}
+
+.logo-header{
+    width: 18%;
+    padding-top: 80px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+
+main{
+padding: 15px;
+}
+
+main h1{
+    font-size: 38px;
+    font-family: "Roboto Serif", serif;
+  font-weight: 550;
+  font-style: normal;
+}
+
+p{
+    color: #808080;
+    font-size: 20px;
+}
+span{
+    color: #20a9e5;
+}
+
+.data{
+    font-size: 15px;
+    color: #808080;
+}
+
+.image-main{
+    padding-top: 19px;
+}
+
+.image-main p{
+    font-size: 14px;
+    color: black;
+}
