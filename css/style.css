@@ -1,68 +1,92 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-header{
+header {
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
-    background-size: 50;
-    bac
-    
 }
 
-.logo-header{
+.logo-header {
     width: 18%;
     padding-top: 80px;
     padding-left: 15px;
     padding-bottom: 5px;
 }
 
-main{
-padding: 15px;
+main {
+    padding: 15px;
 }
 
-main h1{
+main h1 {
     font-size: 38px;
     font-family: "Roboto Serif", serif;
-  font-weight: 550;
-  font-style: normal;
+    font-weight: 550;
+    font-style: normal;
 }
 
-p{
-    color: #808080;
+p {
+    color: #000000;
     font-size: 20px;
 }
-main span{
+
+main span {
     color: #20a9e5;
 }
 
-.data{
+.data {
     font-size: 15px;
     color: #808080;
 }
 
-.image-main{
+.image-main {
     padding-top: 19px;
 }
 
-.image-main p{
+.image-main p {
     font-size: 14px;
     color: black;
 }
 
-.primo-lorem p{
+.primo-lorem p {
+    font-size: 18px;
     color: black;
     padding-top: 20px;
 }
 
-.primo-lorem span{
+.evidenziato span {
     font-size: 18px;
     color: black;
     background-color: yellow;
 }
 
-.list-lorem{
+.list-lorem {
     padding: 10px;
-    padding-top: 40px;
+    padding-top: 50px;
+
+}
+
+table {
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+td {
+    background-color: #b1e5f2;
+}
+
+thead th {
+    background-color: #20a9e5;
+    color: white;
+    text-align: center;
+}
+
+.first-img{
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
 }
